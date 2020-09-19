@@ -29,3 +29,4 @@ _I would work on the backend part of the extension, using a language like Python
 - JavaScript, HTML, CSS
 - Database languages like SQL
 - Python
+- Google Chrome
