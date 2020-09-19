@@ -16,6 +16,7 @@ _I would work on the backend part of the extension, using a language like Python
 ## Background
 
 ### Building:
+URL: https://github.com/pete5431/PriceMonitoringScraperExtension
 - Download the folder containing the skeleton code for a hello world extension.
 - Required browser: Google Chrome.
 - In the chrome browser, enter chrome://extensions in the address bar.
